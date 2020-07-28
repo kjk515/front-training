@@ -12,7 +12,9 @@
   "devDependencies": {
     "@vue/cli-service": "^4.4.0",
     "vue-template-compiler": "^2.6.11",
-    "element-ui": "^2.13.2"
+    "element-ui": "^2.13.2",
+    "sass-loader": "^9.0.2",
+    "node-sass": "^4.14.1"
   },
   "browserslist": [
     "> 1%",
